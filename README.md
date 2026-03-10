@@ -4,6 +4,8 @@ This project is an automation workflow that fetches a webpage, extracts the arti
 
 The workflow is built using **Make.com** and integrates **Groq's LLM API** for fast AI inference.
 
+*You can see the workflow here:* [Automation Workflow on Make.com](https://eu1.make.com/public/shared-scenario/hwViYPTtECR/automation-make-com)
+
 ---
 
 ## 🚀 Overview
